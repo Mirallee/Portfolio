@@ -27,16 +27,16 @@ Manual and automated API tests using Postman
 GraphQL (Same time as Appium)                                                                                                                                           
 
 ## Courses
-[Darmowy kurs Java](https://javastart.pl/baza-wiedzy/darmowy-kurs-java)
-[Kurs Selenium](https://javastart.pl/kurs/selenium)
-[Kurs REST Assured](https://javastart.pl/kurs/rest-assured)
-[MasterClass Software Testing with Jira & Agile -Be a QA Lead](https://www.udemy.com/course/learn-software-testing-in-practical-become-a-qa-expert/)
-[Selenium WebDriver with Java -Basics to Advanced+Frameworks](https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/)
-[Postman - Learn API Testing from Scratch with Live Projects](https://www.udemy.com/course/postman-api-automation-testing-with-javascript/)
-[Appium -Mobile Testing (Android/IOS) from Scratch+Frameworks (soon)](https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/)
-[Learn JMETER from Scratch on Live Apps -Performance Testing (soon)](https://www.udemy.com/course/learn-jmeter-from-scratch-performance-load-testing-tool/)
-[Rest API Testing (Automation) from Scratch-Rest Assured Java (soon)](https://www.udemy.com/course/rest-api-automation-testing-rest-assured/)
-[WebServices/Rest API Testing with SoapUI +Real time Projects (soon)](https://www.udemy.com/course/webservices-testing-with-soap-ui/)
+[Darmowy kurs Java](https://javastart.pl/baza-wiedzy/darmowy-kurs-java)                                                                                                 
+[Kurs Selenium](https://javastart.pl/kurs/selenium)                                                                                                                     
+[Kurs REST Assured](https://javastart.pl/kurs/rest-assured)                                                                                                           
+[MasterClass Software Testing with Jira & Agile -Be a QA Lead](https://www.udemy.com/course/learn-software-testing-in-practical-become-a-qa-expert/)                  
+[Selenium WebDriver with Java -Basics to Advanced+Frameworks](https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/)                           
+[Postman - Learn API Testing from Scratch with Live Projects](https://www.udemy.com/course/postman-api-automation-testing-with-javascript/)                           
+[Appium -Mobile Testing (Android/IOS) from Scratch+Frameworks (soon)](https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/)                           
+[Learn JMETER from Scratch on Live Apps -Performance Testing (soon)](https://www.udemy.com/course/learn-jmeter-from-scratch-performance-load-testing-tool/)             
+[Rest API Testing (Automation) from Scratch-Rest Assured Java (soon)](https://www.udemy.com/course/rest-api-automation-testing-rest-assured/)                           
+[WebServices/Rest API Testing with SoapUI +Real time Projects (soon)](https://www.udemy.com/course/webservices-testing-with-soap-ui/)                                   
 
 ## Test Groups
 [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
@@ -52,8 +52,8 @@ GraphQL (Same time as Appium)
 (soon will be added)
 
 ## My Projects
-[Gmail Tests - Java + Selenium + TestNG](https://github.com/Mirallee/gmail-test)
-[Job Exercise - Java + Selenium + TestNG](https://github.com/Mirallee/Exercise)
-[Exercises to finish course and get certificate, Selenium - Java + Selenium + TestNG](https://github.com/Mirallee/ExercisesToFinishCourse)
-[Amazon Tests - in progress(weekend updates-No time cause of work as a courier)](https://github.com/Mirallee/amazon-test)
+[Gmail Tests - Java + Selenium + TestNG](https://github.com/Mirallee/gmail-test)                                                                                       
+[Job Exercise - Java + Selenium + TestNG](https://github.com/Mirallee/Exercise)                                                                                         
+[Exercises to finish course and get certificate, Selenium - Java + Selenium + TestNG](https://github.com/Mirallee/ExercisesToFinishCourse)                             
+[Amazon Tests - in progress(weekend updates-No time cause of work as a courier)](https://github.com/Mirallee/amazon-test)                                               
 

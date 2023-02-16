@@ -22,7 +22,7 @@ Software testing
 Creating test cases                                                                                                                                                   
 Reporting bugs                                                                                                                                                        
 Finding uniqe CSS Selectors and xPaths                                                                                                                                
-Manual and automated API tests using Postman                                                                                                                          
+Manual and automated Rest APIs tests using Postman                                                                                                                     
 GraphQL (Same time as Appium)                                                                                                                                           
 
 ## Courses

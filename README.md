@@ -7,14 +7,13 @@ My name is Patryk Osowski. I'm IT Specialist after graduating from high school. 
 Postman - Testing tool for REST API                                                                                                                                   
 Jira, xRay - Issue tracking and project management tool for developers                                                                                              
 SelectorsHub - xpath plugin and cssSelector plugin                                                                                                                
-Selenium WebDriver - drives a browser natively, as a user would, either locally or on a remote machine using the Selenium server, marks a leap forward in terms of browser automation.
+Selenium WebDriver - drives a browser natively, as a user would, either locally or on a remote machine using the Selenium server, marks a leap forward in terms of browser automation.                                                                                                                                                    
 Charles Log - web proxy that runs on your computer and allows you to record data that is sent and received between your web browser/mobile application and the server.
-AZ Screen recorder - for recording Android errors reproduction steps
+AZ Screen recorder - for recording Android errors reproduction steps                                                                                                  
 Appium - (after finish amazon tests) - open source test automation framework for use with native, hybrid and mobile web apps.                                           
 JMeter - (after appium/graphQL)-open source software, a 100% pure Java application designed to load test functional behavior and measure performance.                   
 Rest Assured - (after JMeter) - Testing and validating REST services in Java                                                                                           
-SoapUI - (same time as Rest Assured)- the world's most widely-used automated testing tool for SOAP and REST APIs                                                                                                                                  
-
+SoapUI - (same time as Rest Assured)- the world's most widely-used automated testing tool for SOAP and REST APIs                                                       
 
 ## Tech Skills
 SQL                                                                                                                                                                   

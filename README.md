@@ -41,10 +41,10 @@ GraphQL (Same time as Appium)
 [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
 
 ## Blogs
-[WyszkoleWas](https://www.wyszkolewas.com.pl/)
-[pwicherski.gitbook.io](pwicherski.gitbook.io)
-[testerzy.pl](testerzy.pl)
-[remigiuszbednarczyk.pl](remigiuszbednarczyk.pl)
+[WyszkoleWas](https://www.wyszkolewas.com.pl/)                                                                                                                         
+[pwicherski.gitbook.io](pwicherski.gitbook.io)                                                                                                                        
+[testerzy.pl](testerzy.pl)                                                                                                                                             
+[remigiuszbednarczyk.pl](remigiuszbednarczyk.pl)                                                                                                                       
 
 ## My Test Documentation
 

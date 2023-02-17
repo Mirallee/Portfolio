@@ -16,7 +16,7 @@ Rest Assured - (after JMeter) - Testing and validating REST services in Java
 SoapUI - (same time as Rest Assured)- the world's most widely-used automated testing tool for SOAP and REST APIs                                                       
 
 ## Tech Skills
-SQL                                                                                                                                                                   
+MySQL                                                                                                                                                                   
 SCRUM                                                                                                                                                                 
 Software testing                                                                                                                                                      
 Creating test cases                                                                                                                                                   
@@ -41,14 +41,13 @@ GraphQL (Same time as Appium)
 [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
 
 ## Blogs
-[WyszkoleWas](https://www.wyszkolewas.com.pl/)                                                                                                                         
+[wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)                                                                                                                   
 [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)                                                                                       
 [testerzy.pl](https://testerzy.pl/)                                                                                                                                     
 [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)                                                                                                               
 
 ## My Test Documentation
-
-(soon will be added)
+[Bug Reports](https://docs.google.com/document/d/e/2PACX-1vRIe_m87ypz2dqF-Kq8_B1ZSq3c0hlU2OqH-zvpoaPZ24bay1WiwaX0zXpBWoChBnq3-B-uraX7c72E/pub)
 
 ## My Projects
 [Gmail Tests - Java + Selenium + TestNG](https://github.com/Mirallee/gmail-test)                                                                                       

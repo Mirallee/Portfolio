@@ -18,6 +18,7 @@ SoapUI - (same time as Rest Assured)- the world's most widely-used automated tes
 ## Tech Skills
 MySQL                                                                                                                                                                   
 SCRUM                                                                                                                                                                 
+Selenium WebDriver                                                                                                                                                     
 Software testing                                                                                                                                                      
 Creating test cases                                                                                                                                                   
 Reporting bugs                                                                                                                                                        

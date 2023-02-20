@@ -47,9 +47,9 @@ GraphQL (Same time as Appium)
 [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)                                                                                                               
 
 ## My Test Documentation
-[Bug Reports](https://docs.google.com/document/d/e/2PACX-1vRIe_m87ypz2dqF-Kq8_B1ZSq3c0hlU2OqH-zvpoaPZ24bay1WiwaX0zXpBWoChBnq3-B-uraX7c72E/pub)
-[Test Scenarios](https://github.com/Mirallee/gmail-test/blob/master/README.md)
-[Test Scenarios in Gherkin Language](https://github.com/Mirallee/amazon-test/blob/master/README.md)
+[Bug Reports](https://docs.google.com/document/d/e/2PACX-1vRIe_m87ypz2dqF-Kq8_B1ZSq3c0hlU2OqH-zvpoaPZ24bay1WiwaX0zXpBWoChBnq3-B-uraX7c72E/pub)                         
+[Test Scenarios](https://github.com/Mirallee/gmail-test/blob/master/README.md)                                                                                         
+[Test Scenarios in Gherkin Language](https://github.com/Mirallee/amazon-test/blob/master/README.md)                                                                     
 
 ## My Projects
 [Gmail Tests - Java + Selenium + TestNG](https://github.com/Mirallee/gmail-test)                                                                                       

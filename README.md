@@ -56,5 +56,5 @@ GraphQL (Same time as Appium)
 [Gmail Tests - Java + Selenium + TestNG](https://github.com/Mirallee/gmail-test)                                                                                       
 [Job Exercise - Java + Selenium + TestNG](https://github.com/Mirallee/Exercise)                                                                                         
 [Exercises to finish course and get certificate, Selenium - Java + Selenium + TestNG](https://github.com/Mirallee/ExercisesToFinishCourse)                             
-[Amazon Tests - in progress(weekend updates-No time cause of work as a courier)](https://github.com/Mirallee/amazon-test)                                               
+[Amazon Tests - Java + Selenium + TestNG](https://github.com/Mirallee/amazon-test)                                               
 
